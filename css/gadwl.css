@@ -1,0 +1,15 @@
+
+.col{
+    padding: 0;
+    padding-bottom: 20px;
+}
+
+img::after{
+    position: fixed;   
+    top: 50px;
+    height: 600px;
+    left: 200px;
+    right:50px;
+    width: 70%;
+    z-index: 10;
+}
